@@ -1,3 +1,2 @@
-# GITArduino
 # ArduinoGit
 @ ArduinoGit
